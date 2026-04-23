@@ -136,4 +136,3 @@ This project was developed as part of a React assignment to practice component-b
 * ❤️ Add favorites feature
 * 📡 Fetch books from API
 
----
